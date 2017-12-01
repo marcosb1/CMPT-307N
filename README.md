@@ -1,2 +1,2 @@
-# Networking-Env.-Proposal
+# CMPT-307N
 Project for Networking
